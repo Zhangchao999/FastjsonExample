@@ -1,0 +1,23 @@
+{
+    "gender": "男",
+    "name": "阿三",
+    "deposit": 800000.12,
+    "listExperience": [
+        {
+            "company": "百度",
+            "workTime": "24月",
+            "workPlace": "背景"
+        },
+        {
+            "company": "阿里",
+            "workTime": "30月",
+            "workPlace": "杭州"
+        },
+        {
+            "company": "京东",
+            "workTime": "12月",
+            "workPlace": "北京"
+        }
+    ],
+    "age": 30
+}
